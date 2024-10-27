@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I'm glad you're here. Let's connect and explore th
 
 ---
 
-I'm Mohamed Alqmash, a dedicated Data Analyst from Egypt with a strong commitment to extracting valuable insights from data to drive informed decision-making. Skilled in data analysis, visualization, and statistical techniques, I specialize in transforming raw data into actionable insights that support strategic goals. With a hands-on approach and proficiency in tools like Python, SQL, and Power BI, I aim to make data understandable and impactful for effective business solutions. 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1EPnlX4t8c48GPaMY9n2j-1xeVNgMo_N0/view?usp=drive_link)
+**I'm Mohamed Alqmash**, a dedicated Data Analyst from Egypt with a strong commitment to extracting valuable insights from data to drive informed decision-making. Skilled in data analysis, visualization, and statistical techniques, I specialize in transforming raw data into actionable insights that support strategic goals. With a hands-on approach and proficiency in tools like Python, SQL, and Power BI, I aim to make data understandable and impactful for effective business solutions. 
+- 📄 Know about my experiences **[here](https://drive.google.com/file/d/1EPnlX4t8c48GPaMY9n2j-1xeVNgMo_N0/view?usp=drive_link)**
 
 ---
 
@@ -38,7 +38,7 @@ I'm Mohamed Alqmash, a dedicated Data Analyst from Egypt with a strong commitmen
 Feel free to reach out if you'd like to discuss data projects, collaborate, or just connect!
 
 [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mohamed156ah)
-[!["Outlook"](https://img.shields.io/badge/Outlook-00a2ed?style=flat&logo=Outlook&logoColor=white)](mailto:mohamed.alqmash@hotmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-00a2ed?style=flat&logo=outlook&logoColor=white)](mailto:mohamed.alqmash@hotmail.com) 
 [!["Gmail"](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohamed.alqmash156@gmail.com)
 [!["WhatsApp"](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+201278985741)
 [!["Telegram"](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mo156ah)
