@@ -1,5 +1,8 @@
 <h1 align="center">Hi there! 👋</h1>
 
+![Showcasing Your Career Experience and Expertise (2)](https://github.com/user-attachments/assets/deb2e188-cea6-4dbb-bddc-8e6cd1c3ceeb)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedAlqmash&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedAlqmash" /> </p>
 
 
