@@ -34,7 +34,6 @@ Welcome to my GitHub profile! I'm glad you're here. Let's connect and explore th
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAlqmash&" alt="MohamedAlqmash" />
 </p>
 
-
 ---
 
 ### 🤝 Let's Connect
