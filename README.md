@@ -44,7 +44,7 @@ Feel free to reach out if you'd like to discuss data projects, collaborate, or j
 [!["Gmail"](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohamed.alqmash156@gmail.com)
 [!["WhatsApp"](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+201278985741)
 [!["Telegram"](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mo156ah)
-[!["Facebook"](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/mohamedalqmash156)
+[!["Facebook"](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/MOHAMEDALQMASH6)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mohamedalqmash)
 
 
